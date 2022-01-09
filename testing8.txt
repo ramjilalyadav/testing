@@ -1,3 +1,8 @@
 this is testing8
 this is testing 72
+<<<<<<< HEAD
 this is testing 65
+=======
+this is testing 56
+this is tesing 65
+>>>>>>> cf333f84f136a351c17dac979f2558ead40d1527
